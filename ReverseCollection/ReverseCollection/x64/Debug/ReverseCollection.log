@@ -1,0 +1,3 @@
+﻿  ReverseCollection.cpp
+C:\Users\Main\Cpp\Small assignments\ReverseCollection\ReverseCollection\ReverseCollection.cpp(10,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ReverseCollection.vcxproj -> C:\Users\Main\Cpp\Small assignments\ReverseCollection\x64\Debug\ReverseCollection.exe
