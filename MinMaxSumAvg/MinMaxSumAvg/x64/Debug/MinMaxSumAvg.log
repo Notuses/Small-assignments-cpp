@@ -1,0 +1,3 @@
+﻿  MinMaxSumAvg.cpp
+C:\Users\Main\Cpp\Small assignments\MinMaxSumAvg\MinMaxSumAvg\MinMaxSumAvg.cpp(11,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  MinMaxSumAvg.vcxproj -> C:\Users\Main\Cpp\Small assignments\MinMaxSumAvg\x64\Debug\MinMaxSumAvg.exe
