@@ -1,0 +1,3 @@
+﻿  CelciusToFahrenheit.cpp
+C:\Users\Main\Cpp\Small assignments\CelciusToFahrenheit\CelciusToFahrenheit\CelciusToFahrenheit.cpp(11,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CelciusToFahrenheit.vcxproj -> C:\Users\Main\Cpp\Small assignments\CelciusToFahrenheit\x64\Debug\CelciusToFahrenheit.exe
